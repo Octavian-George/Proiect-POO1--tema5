@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541452863 source:c:\users\octavian\desktop\proiect_poo1_tema_5\main.cpp
+	<windows.h>
+	<iostream>
+	<string.h>
+	"Polynomial.hpp"
+
+1541453028 c:\users\octavian\desktop\proiect_poo1_tema_5\polynomial.hpp
+	<iostream>
+	<string.h>
+
+1541453051 source:c:\users\octavian\desktop\proiect_poo1_tema_5\polynomial.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+	"Polynomial.hpp"
+
